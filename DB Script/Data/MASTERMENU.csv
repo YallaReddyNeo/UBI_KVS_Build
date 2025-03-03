@@ -1,0 +1,21 @@
+"ID","NAME","ICON","URL","MODULEID","SORTORDER","ISACTIVE","ISMENU","PARENTID","CREATEDBY","CREATEDDATE","MODIFIEDBY","MODIFIEDDATE","CONTROLLER","ISDISPLAY"
+1,"Designation","scheme_master.svg","/masters/designation-master-list",2,102,1,0,,"",,"",,"MasterDesignation",1
+2,"Basic PayLevel","","/masters/add-basic-pay",2,107,1,0,,"",,"",,"MasterLevelBasicPay",0
+3,"PayBill Detail","","/payable-details/paybill",4,110,1,0,,"",,"",,"PayBill",0
+4,"Salary Slip","salary.svg","/salary-slip",4,120,1,1,,"",,"",,"SalarySlip",1
+5,"Dashboard","dashboard.svg","/dashboard",1,1,1,1,,"",,"",,"Dashboard",1
+6,"Data Control","master.svg","/masters",2,2,1,1,,"",,"",,"Master",1
+7,"Leave Entry","leave.svg","/leave-entry",3,5,1,1,,"",,"",,"LeaveEntry",1
+8,"City","zone_master.svg","/masters/city-master-list",2,101,1,0,2,"",,"",,"MasterCity",1
+9,"Dictionary","pro_family_master.svg","/masters/dictionary-master-list",2,103,1,0,2,"",,"",,"Dictionary",1
+10,"Leave Entry Detail","leaveentry.svg","/leave-entry/details",2,5,1,0,,"",,"",,"LeaveEntry",0
+11,"Office","officeMaster.svg","/office-master-list",2,106,1,1,,"",,"",,"MasterOffice",1
+12,"City Category","dealermaster.svg","/masters/city-category-master-list",2,100,1,0,,"",,"",,"MasterCityCategory",1
+13,"Leave Category","approval.svg","/masters/leave-master-list",2,105,1,0,,"",,"",,"MasterLeave",1
+14,"Pay Level","product_marerial.svg","/masters/pay-level-master",2,107,1,0,,"",,"",,"MasterLevel",1
+15,"Role","role.svg
+","/masters/role-master-list",2,108,1,0,,"",,"",,"MasterRole",1
+16,"Employee","employeeMaster.svg","/manage-user-list",2,104,1,1,,"",,"",,"MasterEmployee",1
+17,"State","","",2,107,0,0,,"",,"",,"MasterState",0
+18,"Permission","","",2,108,0,0,,"",,"",,"MasterPermission",0
+19,"PayBill Sheet","paybill.svg","/payable-details",4,109,1,1,,"",,"",,"PayBill",1

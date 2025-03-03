@@ -1,0 +1,21 @@
+"ID","LEAVETYPE","CAPDAYS","DEDUCTIONTYPE","DEDUCTIONPERC","CREATEDDATE","CREATEDBY","MODIFIEDDATE","MODIFIEDBY","DELETEDBY","ISDELETED","BASICPAYDED","TADED","DADED","ISACTIVE","DELETEDDATE"
+215,"Leave Salary",0,"",,23-JAN-25,"TEJA",23-JAN-25,"TEJAS","EMP001",0,0,0,0,1,23-JAN-25
+243,"Commuted Leave",0,"",,24-JAN-25,"Tejasvi",,"","",0,0,0,0,1,
+221,"Leave Entitilements",0,"",,23-JAN-25,"Tejasvi",,"","",0,0,0,0,1,
+224,"Compassionate Leave",0,"",,23-JAN-25,"Tejasvi",,"","",0,0,0,0,1,
+225,"Bereavement Leave",0,"",,23-JAN-25,"Tejasvi",,"","",0,0,0,0,1,
+228,"Sabbatical Leave",0,"",,23-JAN-25,"Tejasvi",,"","",0,0,0,0,1,
+246,"Leave Not Due",0,"",,24-JAN-25,"Tejasvi",,"","EMP001",0,0,0,0,1,24-JAN-25
+263,"Earned Leave",0,"",,27-JAN-25,"EMP001",27-JAN-25,"EMP001","EMP001",0,0,0,0,1,27-JAN-25
+217,"Casual Leave",0,"",,23-JAN-25,"Tejasvi",27-JAN-25,"EMP001","",0,0,0,0,1,
+218,"Maternity Leave",0,"",,23-JAN-25,"string",23-JAN-25,"Unknown","",0,0,0,0,1,
+222,"Sick Leave",0,"",,23-JAN-25,"Tejasvi",,"","",0,0,0,0,1,
+226,"Parental Leave",0,"",,23-JAN-25,"Tejasvi",,"","",0,0,0,0,1,
+229,"Study Leave",0,"",,23-JAN-25,"Tejasvi",,"","",0,0,0,0,1,
+231,"Special Maternity Leave",0,"",,23-JAN-25,"Tejasvi",,"","EMP001",0,0,0,0,1,27-JAN-25
+244,"Child Care Leave",0,"",,24-JAN-25,"EMP001",24-JAN-25,"EMP001","EMP001",0,0,0,0,1,24-JAN-25
+268,"Half Day Leave",0,"",,27-JAN-25,"EMP001",07-FEB-25,"EMP00849","",0,0,0,0,1,
+241,"Extra Ordinary Leave",0,"",,24-JAN-25,"Tejasvi",13-FEB-25,"24483","",0,100,0,0,1,
+223,"Paternity Leave",0,"",,23-JAN-25,"Tejasvi",27-JAN-25,"EMP001","",0,0,0,0,1,
+227,"Compensatory Leave",0,"",,23-JAN-25,"Tejasvi",,"","",0,0,0,0,1,
+266,"Half Pay Leave",0,"",,27-JAN-25,"EMP001",07-FEB-25,"EMP00849","",0,50,0,0,1,
